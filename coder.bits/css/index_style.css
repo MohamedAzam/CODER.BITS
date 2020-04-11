@@ -1,0 +1,147 @@
+
+.nav-img{
+    width: 90px;
+    height: 80px;
+    padding: 0;
+}
+.navbar {
+    padding: 0;
+    
+}
+.home{
+    background-image:url(../images/cover.jpg);
+    background-attachment: fixed;
+    
+}
+.navba {
+    background-color: black !important;
+}
+.home-image {
+    background-color: rgba(196, 45, 50, 0.68);
+    height: 700px;   
+}
+.nav-item .nav-item:hover{
+    color: #ec3237;
+}
+.text{
+    margin-top: 300px;
+}
+.layer {
+    width: 100%;
+}
+.fa-sele {
+    margin-right: 15px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 33px;
+    transition: 1s;
+}
+.fa-sele:hover {
+    background-color:  #ec3237;
+    color: #fff;
+}
+.work-btn{
+    text-decoration: none;
+    background-color: #ec3237;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+.fa-work{
+    border: 1px solid transperant;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.over{
+    background-image: url(../images/project-counter.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.each{
+    background-color: transparent;
+}
+
+.vip{
+    border: 1px solid #fff;
+    text-decoration: none;
+    color #fff;
+    padding: 10px;
+    
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.xas{
+    margin-bottom: 20px;
+}
+.card-body:hover .content {
+    color: #ec3237;
+    position: relative;
+}
+.search {
+    position: absolute;
+}
+
+
+.icona {
+    bottom: 110px;
+    position: relative;
+    border: 1px solid transperant;
+    width: 20px;
+    left: 160px;
+    background-color: black;
+    color: #fff;
+    padding: 7px;
+    transition: 1s;
+}
+.card:hover .icona {
+    background-color: #ec3237;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.MultiCarousel { float: left; overflow: hidden; padding: 15px; width: 100%; position:relative; }
+    .MultiCarousel .MultiCarousel-inner { transition: 1s ease all; float: left; }
+        .MultiCarousel .MultiCarousel-inner .item { float: left;}
+        .MultiCarousel .MultiCarousel-inner .item > div { text-align: center; padding:10px; margin:10px; background:#f1f1f1; color:#666;}
+    .MultiCarousel .leftLst, .MultiCarousel .rightLst { position:absolute; border-radius:50%;top:calc(50% - 20px); }
+    .MultiCarousel .leftLst { left:0; }
+    .MultiCarousel .rightLst { right:0; }
+    
+        .MultiCarousel .leftLst.over, .MultiCarousel .rightLst.over { pointer-events: none; background:#ccc; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.clr{
+    clear: both;
+}
